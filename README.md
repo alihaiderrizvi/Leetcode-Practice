@@ -2,7 +2,7 @@
 
 | Number | Problem | Solution |
 | :-- | :-- | :-- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](1-Two%20Sum) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](all/1-Two%20Sum) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](2-Add%20Two%20Numbers) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](4-Median%20of%20Two%20Sorted%20Arrays) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](5-Longest%20Palindromic%20Substring) |
