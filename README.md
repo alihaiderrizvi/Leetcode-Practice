@@ -48,6 +48,3 @@
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Python](867-Transpose%20Matrix) |
 | 905 | [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](905-Sort%20Array%20by%20Parity) |
 | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](997-Find%20the%20Town%20Judge) |
-| 1196 | [How many apples can you put into the basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [Python](1196-How%20many%20apples%20can%20you%20put%20into%20the%20basket) |
-| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [Python](1197-Minimum%20Knight%20Moves) |
-| 1198 | [Find Smallest Common Element in all rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [Python](1198-Find%20Smallest%20Common%20Element%20in%20all%20rows) |
